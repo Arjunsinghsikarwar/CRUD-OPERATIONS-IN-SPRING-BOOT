@@ -9,8 +9,7 @@ A simple Spring Boot application that provides a RESTful API for managing studen
 - ✅ Add a new student
 - 📋 Get all students
 - 🔍 Get student by roll number
-- ❌ Delete student by object or by roll number
-- 🔄 (Planned) Update student information
+- ❌ Delete student by object or by roll numbe
 
 ---
 
